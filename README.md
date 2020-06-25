@@ -8,11 +8,7 @@ EMAILPASS:PASSWORD
 
 Used :
 
-/////////////////input here///////////////////
-$token ="tokenhere"; // insert your token here
-$wallet="wallerhere"; // insert your wallet here
-$urlapi = "apiurl"; ////change url api from sh
-/////////////////////////////////////////////
+
 
 
 root$ php check.php
@@ -28,6 +24,13 @@ root$ php check.php
                 Save to dir (default: valid): (somefoldername)
                 Request email per second (*max 10) ? 5
                 Delete list per check? (y/n): n/y
+                
+                
+                /////////////////input here///////////////////
+$token ="tokenhere"; // insert your token here
+$wallet="wallerhere"; // insert your wallet here
+$urlapi = "apiurl"; ////change url api from sh
+/////////////////////////////////////////////
  
  
 
