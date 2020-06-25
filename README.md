@@ -5,14 +5,15 @@ USERNAME:PASSWORD
 EMAILPASS:PASSWORD
 
 
+
+Used :
+
 /////////////////input here///////////////////
 $token ="tokenhere"; // insert your token here
 $wallet="wallerhere"; // insert your wallet here
 $urlapi = "apiurl"; ////change url api from sh
 /////////////////////////////////////////////
 
-
-Used :
 
 root$ php check.php
 
